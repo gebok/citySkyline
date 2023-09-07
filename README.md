@@ -3,4 +3,4 @@ Part of the Responsive Web Design Course by freeCodeCamp, learning the languages
 
 This course will teach CSS variables to help organize styles and reuse them.
 
-In this course, a city skyline will be built. You'll learn how to configure CSS variables so you can reuse them whenever you want.
+In this course, a city skyline will be built. And learn how to configure CSS variables so you can reuse them whenever you want.
